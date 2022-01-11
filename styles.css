@@ -207,6 +207,18 @@ section.landing.info p{
     
 }
 
+section.landing.profile-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.landing .profile-area .outer-area{
+    width: 28rem;
+    height: 28rem;
+    border: 1px solid var(--color-primary-light);
+}
+
 
 
 
